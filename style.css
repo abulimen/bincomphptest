@@ -1,0 +1,3 @@
+body { font-family: system-ui, sans-serif; color: #1a2b1a; }
+label { min-width: 8rem; }
+td input[type=number] { max-width: 6rem; }
